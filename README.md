@@ -90,12 +90,14 @@ Plik z wagami modelu (`.pth`) **nie został umieszczony w repozytorium**, poniew
 ---
 
 ## 7. Zawartość repozytorium
-├── notebooks/
-│ ├── inference.ipynb – detekcja obiektów i porównanie modeli pretrained
-│ └── training.ipynb – trening (fine-tuning) modelu detekcji
-├── README.md – dokumentacja projektu
-├── .gitignore
-└── requirements.txt
+
+MN-project/
+- notebooks/
+  - inference.ipynb – detekcja obiektów i porównanie modeli pretrained
+  - training.ipynb – trening (fine-tuning) modelu detekcji
+- README.md – dokumentacja projektu
+- .gitignore
+- requirements.txt
 
 ---
 
