@@ -22,15 +22,17 @@ Projekt został zrealizowany w środowisku **Google Colab** z wykorzystaniem bib
 - Narzędzie do etykietowania: **LabelImg**
 
 Struktura zbioru danych:
+
 dataset/
-├── images/
-│   ├── train/
-│   ├── val/
-│   └── test/
-└── labels/
-    ├── train/
-    ├── val/
-    └── test/
+- images/
+  - train/
+  - val/
+  - test/
+- labels/
+  - train/
+  - val/
+  - test/
+
 
 
 Zbiór danych został ręcznie oznaczony w narzędziu LabelImg.  
