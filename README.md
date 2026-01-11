@@ -5,3 +5,4 @@ Wykorzystaliśmy gotową pule 409 zdjęć samochodów oraz dokonaliśmy etykieto
 <img width="184" height="247" alt="image" src="https://github.com/user-attachments/assets/ac744676-577b-40c7-93ec-40a3980de521" />
 
 # HADJK
+kuyas kozła
