@@ -21,7 +21,15 @@ samochód.
 - Narzędzie do etykietowania: LabelImg
 
 Struktura datasetu:
-
+dataset/
+├── images/
+│ ├── train/
+│ ├── val/
+│ └── test/
+└── labels/
+├── train/
+├── val/
+└── test/
 
 
 
