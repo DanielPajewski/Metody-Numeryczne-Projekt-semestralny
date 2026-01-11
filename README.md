@@ -1,3 +1,4 @@
+# Metody Numeryczne-Projekt semestralny
 # Detekcja obiektów – samochody (Computer Vision)
 
 ## 1. Opis projektu
@@ -90,7 +91,9 @@ poszczególnymi architekturami detekcji obiektów oraz ich przydatność do zada
 detekcji samochodów na obrazach.
 
 ---
-
+# Autorzy
+Daniel Pajewski 21525
+Bartek Mikołajczyk 21513
 ## 9. Uruchomienie projektu
 1. Otwórz notebook `notebooks/inference.ipynb` w Google Colab
 2. Uruchom wszystkie komórki
