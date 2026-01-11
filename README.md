@@ -4,14 +4,25 @@ Wykorzystaliśmy gotową pule 409 zdjęć samochodów oraz dokonaliśmy etykieto
 # Drzewo katalogów
 projekt
     ├───data
+    
     │   ├───images
+    
     │   │   ├───test
+    
     │   │   ├───train
+    
     │   │   └───val
+    
     │   └───labels
+    
     │       ├───test
+    
     │       ├───train
+    
     │       └───val
+    
     ├───results
+    
     └───src
+    
         └───__pycache__
