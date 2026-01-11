@@ -24,13 +24,14 @@ Projekt został zrealizowany w środowisku **Google Colab** z wykorzystaniem bib
 Struktura zbioru danych:
 dataset/
 ├── images/
-│ ├── train/
-│ ├── val/
-│ └── test/
+│   ├── train/
+│   ├── val/
+│   └── test/
 └── labels/
-├── train/
-├── val/
-└── test/
+    ├── train/
+    ├── val/
+    └── test/
+
 
 Zbiór danych został ręcznie oznaczony w narzędziu LabelImg.  
 Do etapu treningu wykorzystano wyłącznie obrazy zawierające co najmniej jeden obiekt, ponieważ modele detekcji w bibliotece TorchVision wymagają obecności bounding boxów w danych uczących.
