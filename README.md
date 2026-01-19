@@ -21,7 +21,9 @@ Projekt został zrealizowany w środowisku **Google Colab** z wykorzystaniem bib
 - Format etykiet: **YOLO**
 - Narzędzie do etykietowania: **LabelImg**
 
-Link do porbania dataseta:https://drive.google.com/drive/folders/1HxEg1A0xsfKOndxwit2XS6_EJVIDBNXg
+Link do pobrania dataseta:https://drive.google.com/drive/folders/1HxEg1A0xsfKOndxwit2XS6_EJVIDBNXg
+
+Link do pobrania modeli detekcji obiektów: https://drive.google.com/drive/folders/1gi0l8FnIhQ4CCizn9NyVLnzD9YjyTCwg?usp=sharing
 
 Struktura zbioru danych:
 
