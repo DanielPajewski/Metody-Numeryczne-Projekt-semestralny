@@ -70,7 +70,7 @@ Modele zostały porównane wizualnie na tych samych obrazach wejściowych pod k�
 
 ---
 
-## 5. Samodzielny trening modelu (maksymalny poziom)
+## 5. Samodzielny trening modelu 
 W celu spełnienia wymagań maksymalnego poziomu projektu wykonano **fine-tuning** wybranego modelu detekcji obiektów:
 
 **Faster R-CNN MobileNetV3 Large FPN**
